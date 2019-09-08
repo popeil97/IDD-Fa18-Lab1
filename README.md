@@ -4,14 +4,20 @@
 
 ## Part A. Set Up a Breadboard
 
-<a href="Lab1_PartA.HEIC">Quora profile link for Adam D'Angelo</a>
+<p align="center">
+  <img src="" width="350" title="hover text">
+</p>
 
 
 ## Part B. Manually Blink a LED
 
 **a. What color stripes are on a 100 Ohm resistor?**
+
+**Answer: Red and brown**
  
 **b. What do you have to do to light your LED?**
+
+**Answer: When connected the LED won’t immediately light, you must press the button to connect the circuit and light the LED.**
 
 
 ## Part C. Blink a LED using Arduino
@@ -19,6 +25,8 @@
 ### 1. Blink the on-board LED
 
 **a. What line(s) of code do you need to change to make the LED blink (like, at all)?**
+
+**Answer: u don’t actually need to change the example code to get the on board LED to blink, since it seems the “LED_BUILTIN” variable maps to pin 13. But if you wish you can replace “LED_BUILTIN” and get the same result.**
 
 **b. What line(s) of code do you need to change to change the rate of blinking?**
 
