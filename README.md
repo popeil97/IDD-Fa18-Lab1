@@ -4,9 +4,7 @@
 
 ## Part A. Set Up a Breadboard
 
-[insert a photo of your breadboard setup here]
-
-
+<a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>
 
 
 ## Part B. Manually Blink a LED
