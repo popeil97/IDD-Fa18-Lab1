@@ -1,6 +1,6 @@
 # IDD-Fa18-Lab1: Blink!
 
-**A lab report by John Q. Student**
+**A lab report by Alexander Popeil**
 
 ## Part A. Set Up a Breadboard
 
@@ -44,6 +44,8 @@
 
 **Answer: I programmed my blinking LED to have a longer pause(5x longer) after being lit.**
 
+<a href="Lab1_Blink.ino">Blink code</a>
+
 ### 2. Blink your LED
 
 **Make a video of your LED blinking, and add it to your lab submission.**
@@ -71,7 +73,7 @@
 
 ### 1. Take apart your electronic device, and draw a schematic of what is inside. 
 
-### Device
+### Device = LED Strip Light Controller
 <p align="center">
   <img src="Lab1-FrankenLight-Device.png" width="350" height="350">
 </p>
