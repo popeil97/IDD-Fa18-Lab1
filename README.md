@@ -4,7 +4,7 @@
 
 ## Part A. Set Up a Breadboard
 
-<a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>
+<a href="Lab1_PartA.HEIC">Quora profile link for Adam D'Angelo</a>
 
 
 ## Part B. Manually Blink a LED
