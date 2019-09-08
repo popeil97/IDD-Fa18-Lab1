@@ -5,7 +5,7 @@
 ## Part A. Set Up a Breadboard
 
 <p align="center">
-  <img src="" width="350" title="hover text">
+  <img src="Lab1_PartA.HEIC" width="350" height="350>
 </p>
 
 
