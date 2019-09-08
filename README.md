@@ -101,7 +101,7 @@
 
 ### 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
-**I picked the pins that were connecting the processing component to the rest of the board. **
+**I picked pins that were connecting the processing component to the rest of the board. From there I intercepted those signals and sent them to my LED light, effectively lighting it**
 
 ### 3. Build your light!
 
