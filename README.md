@@ -26,16 +26,23 @@
 
 **a. What line(s) of code do you need to change to make the LED blink (like, at all)?**
 
-**Answer: u don’t actually need to change the example code to get the on board LED to blink, since it seems the “LED_BUILTIN” variable maps to pin 13. But if you wish you can replace “LED_BUILTIN” and get the same result.**
+**Answer: You don’t actually need to change the example code to get the on board LED to blink, since it seems the “LED_BUILTIN” variable maps to pin 13. But if you wish you can replace “LED_BUILTIN” and get the same result.**
 
 **b. What line(s) of code do you need to change to change the rate of blinking?**
 
+**Answer: To change the blinking rate you only need to change the parameters of the delay() functions. This controls the pause length in-between the digitalWrites, which controls the signal outputted to the built in LED.**
+
 **c. What circuit element would you want to add to protect the board and external LED?**
+
+**Answer: To protect the board and external LED I would add a resistor. **
  
 **d. At what delay can you no longer *perceive* the LED blinking? How can you prove to yourself that it is, in fact, still blinking?**
 
+**Answer: I could no longer perceive the LED blinking when the delay parameter was set to 12ms. You can tell it's still blinking by using the multimeter to check the variance in voltage during the code execution.**
+
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
 
+**Answer: I programmed my blinking LED to have a longer pause(5x longer) after being lit.**
 
 ### 2. Blink your LED
 
