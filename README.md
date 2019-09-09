@@ -13,7 +13,7 @@
 
 **a. What color stripes are on a 100 Ohm resistor?**
 
-**Answer: Red and brown**
+**Answer: Brown Black Brown**
  
 **b. What do you have to do to light your LED?**
 
